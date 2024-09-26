@@ -1,5 +1,6 @@
-
+![logo](https://github.com/NehaaaJoshi/NehaaaJoshi/blob/main/Banner.png)
 <h1 align="center">Hi, I am Neha Joshi</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehaaajoshi&label=Profile%20views&color=0e75b6&style=flat" alt="nehaaajoshi" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b952yn4tivnmy1axcgc31arzd3t588475qvr2w5ehjz3&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
